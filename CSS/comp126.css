@@ -49,7 +49,7 @@ h3{
   color: #6d7993;
   text-align: center;
 }
-
+/*Nav Bar CSS*/
 .navbar{
   margin-top: 10px;
   margin-bottom: 10px;
@@ -98,7 +98,7 @@ h3{
   margin-bottom: 2pc;
   margin-top: 2pc;
 }
-
+/*Carosel CSS*/
 .carousel-control-prev-icon, .carousel-control-next-icon{
   border: none;
 }
